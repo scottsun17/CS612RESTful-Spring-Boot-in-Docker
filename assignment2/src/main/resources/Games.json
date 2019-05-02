@@ -1,0 +1,75 @@
+[
+	{
+	  "id": "0",
+	  "name": "Pokemon Blue",
+	  "version": "96",
+	  "price": "99.99"
+	},
+	{
+	  "id": "1",
+	  "name": "Super Smash Bros.",
+	  "version": "92",
+	  "price": "75.90"
+	},
+	{
+	  "id": "2",
+	  "name": "Mario Kart",
+	  "version": "92",
+	  "price": "32.55"
+	},
+	{
+	  "id": "3",
+	  "name": "Overcooked",
+	  "version": "16",
+	  "price": "15.99"
+	},
+	{
+	  "id": "4",
+	  "name": "Mario Party",
+	  "version": "98",
+	  "price": "12.22"
+	},
+	{
+	  "id": "5",
+	  "name": "Pokemon Gold",
+	  "version": "99",
+	  "price": "99.99"
+	},
+	{
+	  "id": "6",
+	  "name": "The World Ends with You",
+	  "version": "07",
+	  "price": "17.99"
+	},
+	{
+	  "id": "7",
+	  "name": "Animal Crossing: Wild World",
+	  "version": "05",
+	  "price": "15.55"
+	},
+	{
+	  "id": "8",
+	  "name": "Super Mario 64",
+	  "version": "96",
+	  "price": "19.99"
+	},
+	{
+	  "id": "9",
+	  "name": "Nintendogs",
+	  "version": "05",
+	  "price": "22.22"
+	},
+	{
+	  "id": "10",
+	  "name": "Fire Emblem",
+	  "version": "90",
+	  "price": "2.99"
+	},
+	{
+	  "id": "11",
+	  "name": "Nine Hours, Nine Persons, Nine Doors",
+	  "version": "09",
+	  "price": "12.55"
+	}
+]
+
