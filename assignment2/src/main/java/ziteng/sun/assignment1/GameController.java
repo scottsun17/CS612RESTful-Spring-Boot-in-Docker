@@ -48,7 +48,7 @@ public class GameController {
 	private ArrayList<Game> readJSON() throws FileNotFoundException {
 		
 		
-		String path = "C:\\ZSun\\Eclipse WorkSpace\\assignment2\\src\\main\\resources\\Games.json";
+		String path = "C:\\Users\\Scott Sun\\Documents\\Github\\CS612RESTful-Docker\\assignment2\\src\\main\\java\\ziteng\\sun\\assignment1\\Games.json";
         BufferedReader bufferedReader = new BufferedReader(new FileReader(path));
 
         Gson gson = new Gson();
