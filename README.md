@@ -11,7 +11,7 @@ The application has three parts:
 
 2. Pull image from docker hub or visit [my Dockerhub](https://hub.docker.com/r/suncot917/assignment1)
 
-⋅⋅⋅fire the following command: `docker pull suncot917/assignment1`
+fire the following command: `docker pull suncot917/assignment1`
 ![alt text](https://raw.githubusercontent.com/scottsun17/CS612RESTful-Spring-Boot-in-Docker/master/others/images/docker-pull.PNG "Docker Pull")
 <br/>
 ![alt text](https://raw.githubusercontent.com/scottsun17/CS612RESTful-Spring-Boot-in-Docker/master/others/images/docker-pull-image.PNG "Docker Pull Image CMD")
