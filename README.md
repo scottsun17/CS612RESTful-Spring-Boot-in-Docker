@@ -7,24 +7,16 @@ The application has three parts:
  
 ## How to run the application
 ------------------------------
-1. Install Docker on your computer and make sure docker is running. Get Docker here
-`https://www.docker.com/`
+1. Install Docker on your computer and make sure docker is running. Get [Docker](https://www.docker.com/)    
 
-2. Pull image from docker hub or visit `https://hub.docker.com/r/suncot917/assignment1`
-<br>
-`docker pull suncot917/assignment1`
+2. Pull image from docker hub or visit [my Dockerhub](https://hub.docker.com/r/suncot917/assignment1)
 
-<br>
+⋅⋅⋅fire the following command: `docker pull suncot917/assignment1`
 ![alt text](https://raw.githubusercontent.com/scottsun17/CS612RESTful-Spring-Boot-in-Docker/master/others/images/docker-pull.PNG "Docker Pull")
-
-
-<br>
+<br/>
 ![alt text](https://raw.githubusercontent.com/scottsun17/CS612RESTful-Spring-Boot-in-Docker/master/others/images/docker-pull-image.PNG "Docker Pull Image CMD")
-
-
-<br>
+<br/>
 ![alt text](https://raw.githubusercontent.com/scottsun17/CS612RESTful-Spring-Boot-in-Docker/master/others/images/cmd-image%20ls.PNG "Docker Image List")
-
 
 3. Run the following code to run the application from Docker
 
