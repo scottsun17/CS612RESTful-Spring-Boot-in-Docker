@@ -11,14 +11,18 @@ The application has three parts:
 `https://www.docker.com/`
 
 2. Pull image from docker hub or visit `https://hub.docker.com/r/suncot917/assignment1`
+<br>
 `docker pull suncot917/assignment1`
 
+<br>
 ![alt text](https://raw.githubusercontent.com/scottsun17/CS612RESTful-Spring-Boot-in-Docker/master/others/images/docker-pull.PNG "Docker Pull")
 
 
+<br>
 ![alt text](https://raw.githubusercontent.com/scottsun17/CS612RESTful-Spring-Boot-in-Docker/master/others/images/docker-pull-image.PNG "Docker Pull Image CMD")
 
 
+<br>
 ![alt text](https://raw.githubusercontent.com/scottsun17/CS612RESTful-Spring-Boot-in-Docker/master/others/images/cmd-image%20ls.PNG "Docker Image List")
 
 
